@@ -1,6 +1,5 @@
-# React + Vite
 
-# Netflix-Clone
+# Netflix-Clone (React + Vite)
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
