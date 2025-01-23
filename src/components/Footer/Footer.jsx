@@ -4,7 +4,7 @@ import twitter_icon from '../../assets/twitter_icon.png'
 import instagram_icon from '../../assets/instagram_icon.png'
 import facebook_icon from '../../assets/facebook_icon.png'
 
-import './footer.css'
+import './Footer.css'
 
 const Footer = () => {
   return (
